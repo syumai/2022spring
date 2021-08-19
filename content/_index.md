@@ -10,7 +10,7 @@ menu:
 
 {{% jumbo img="" imgLabel="Go Conference 2022 Spring" %}}
 
-## November 13th, 2021
+## April 23rd, 2022
 ### Online
 
 {{% /jumbo %}}
