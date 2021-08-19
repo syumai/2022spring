@@ -25,7 +25,7 @@ googleAnalytics = "UA-127197700-1"
     favicon16 = "/favicon-16x16.png"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
-    themeColor="#ffa0bd"
+    themeColor="#d75c7e"
 
 [params.logos]
     jumbo = "/images/logos/logo_text.png"
