@@ -17,3 +17,6 @@ content:
       - name: 2021 Spring
         url: https://gocon.jp/2021spring
         newTab: true
+      - name: 2022 Autumn
+        url: https://gocon.jp/2022autumn
+        newTab: true
