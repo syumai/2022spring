@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gocon.jp/2022spring/ja/tags/</loc>
+    <loc>https://syumai.github.io/2022spring/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gocon.jp/2022spring/tags/"
+                href="https://syumai.github.io/2022spring/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gocon.jp/2022spring/ja/tags/"
+                href="https://syumai.github.io/2022spring/ja/tags/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2022spring/ja/</loc>
+    <loc>https://syumai.github.io/2022spring/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gocon.jp/2022spring/"
+                href="https://syumai.github.io/2022spring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gocon.jp/2022spring/ja/"
+                href="https://syumai.github.io/2022spring/ja/"
                 />
   </url>
 </urlset>

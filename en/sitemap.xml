@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gocon.jp/2022spring/code-of-conduct/</loc>
+    <loc>https://syumai.github.io/2022spring/code-of-conduct/</loc>
   </url><url>
-    <loc>https://gocon.jp/2022spring/</loc>
+    <loc>https://syumai.github.io/2022spring/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gocon.jp/2022spring/ja/"
+                href="https://syumai.github.io/2022spring/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gocon.jp/2022spring/"
+                href="https://syumai.github.io/2022spring/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2022spring/tags/</loc>
+    <loc>https://syumai.github.io/2022spring/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gocon.jp/2022spring/ja/tags/"
+                href="https://syumai.github.io/2022spring/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gocon.jp/2022spring/tags/"
+                href="https://syumai.github.io/2022spring/tags/"
                 />
   </url>
 </urlset>
