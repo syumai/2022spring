@@ -8,7 +8,7 @@ menu:
 ---
 
 
-{{% jumbo img="" imgLabel="Go Conference 2021 Autumn" %}}
+{{% jumbo img="" imgLabel="Go Conference 2022 Spring" %}}
 
 ## November 13th, 2021
 ### Online
@@ -26,9 +26,9 @@ Go Conference is a half-annual conference of programming language Go in Tokyo.
 <!-- ... -->
 <!-- ... -->
 
-{{<cfp starts="2021-06-12"
-       ends="2021-08-31"
-       url="https://www.papercall.io/gocon-tokyo-2021-autumn">}}
+{{<cfp starts="2000-01-01"
+       ends="2000-01-01"
+       url="https://www.papercall.io/gocon-tokyo-2022-spring">}}
 
 <!--
 {{% home-speakers %}}
@@ -51,8 +51,8 @@ icon="right" %}}
 
 <ul>
 <li>{{<ticket name="Sessions"
-           starts="2021-10-01"
-           ends="2021-11-23"
+           starts="2000-01-01"
+           ends="2000-01-01"
            price="0 JPY"
            url="https://gocon.connpass.com/event/213865/">}}
 </li>
